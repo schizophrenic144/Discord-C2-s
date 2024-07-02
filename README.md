@@ -4,6 +4,28 @@ Discord resets every token thats found on github. This repo is used to reset mal
 **All this is automated**
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # This is how the message they get looks like
 Hey {Owner Name},
 
