@@ -1,5 +1,5 @@
 # Discord-C2-s
-Discord resets every token thats found on github. This repo is used to reset malicious bot tokens. Please also note that none of these bot tokens work anymore and that its **automated**
+Discord resets every token thats found on github. This repo is used to reset malicious bot tokens. Please also note that none of these bot tokens work anymore and that this repo is **automated**
 
 # This is how the message they get looks like
 Hey {Owner Name},
