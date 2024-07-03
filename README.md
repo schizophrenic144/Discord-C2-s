@@ -10,4 +10,4 @@ Your token was found here: https://github.com/schizophrenic144/Discord-C2-s/blob
 
 Be more careful in the future, and make sure to not accidentally upload your token publicly!
 
-Obtain a New Bot Token: https://discord.com/developers/applications/1200101950323171398/bot
+Obtain a New Bot Token: https://discord.com/developers/applications/1111111111111111111/bot
